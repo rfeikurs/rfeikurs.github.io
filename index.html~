@@ -3,6 +3,8 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width">
+    <meta name='yandex-verification' content='5f1b3b65bdace908' />
+    <meta name="google-site-verification" content="XOyn4kHgWo8cp9DoaEfa6g5o_UH01lYWtbHnVrKWGyo" />
     <meta name="robots" content="all">
     <meta name="keywords" content="продажа генераторов, купить электростанцию, генератор для дома, дизельный генератор,дизельная электростанция,резервный генератор,генератор с приводом от трактора,ВОМ, ">
     <meta name="title" content="">
@@ -14,7 +16,7 @@
   </head>
 
   <body>
-    <div id="top_bar_black">
+    <header>
       <div id="logo_container">
         <div id="logo_image"></div>
         <div id="logo_pt"></div>
@@ -26,7 +28,7 @@
           <div class="nav_button"> Сервис </div>
         </nav>
       </div>
-    </div>
+    </header>
     <article>
       <div id="header">
         <div class="header_content_mainline"> Мы даём Вам свободу! </div>
@@ -73,7 +75,35 @@
           </div>
         </div> 
       </div>
-    </footer> 
+    </footer>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31497088 = new Ya.Metrika({
+                    id:31497088,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/31497088" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
   
   </body>
 </html>
